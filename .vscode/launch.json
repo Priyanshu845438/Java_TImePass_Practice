@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Program15",
+      "request": "launch",
+      "mainClass": "Program15",
+      "projectName": "Java Practice_293dcfae"
+    },
+    {
+      "type": "java",
+      "name": "Program16",
+      "request": "launch",
+      "mainClass": "Program16",
+      "projectName": "Java Practice_293dcfae"
+    }
+  ]
+}
