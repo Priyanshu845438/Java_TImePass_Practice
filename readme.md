@@ -30,9 +30,9 @@ Write a program to reverse a given **three-digit** number.
 ### Program 5 - Pirate Treasure Distribution
 **Day 2 - Week 1**  
 **Input:**  
-- 1st Input: Total gold treasure  
-- 2nd Input: Ben’s share percentage  
-- 3rd Input: Blackbeard’s share percentage  
+- Total gold treasure  
+- Ben’s share percentage  
+- Blackbeard’s share percentage  
 
 **Output:**  
 - Ben’s share amount  
@@ -45,7 +45,7 @@ Write a program to reverse a given **three-digit** number.
 **Day 2 - Week 1**  
 Take a **2-digit number** as input.  
 - If it is **less than 20**, print `"Less than 20"`  
-- If it is **greater than or equal to 20**, print whether it is **odd** or **even**
+- If it is **greater than or equal to 20**, print whether it is **odd** or **even`
 
 ---
 
@@ -135,3 +135,80 @@ Given two numbers, print the number nearest to the first number that is divisibl
 ### Program 16 - Reduce to Single Digit Sum
 **Day 3 - Week 1**  
 Write a program to repeatedly **sum the digits** of a number until the result is a **single digit**.
+
+---
+
+### Program 17 - Check Harshad Number
+**Day 4 - Week 1**  
+A number is a **Harshad Number** if it is divisible by the **sum of its digits**.
+
+---
+
+### Program 18 - Check Adam Number
+**Day 4 - Week 1**  
+A number is an **Adam Number** if the **square of the number**, when reversed, equals the **square of the reverse** of the number.  
+
+**Example:**  
+- Input: `12`  
+- Square(12) = `144`  
+- Reverse(Square) = `441`  
+- Reverse(12) = `21` → Square = `441`
+
+---
+
+### Program 19 - Armstrong Number
+**Day 4 - Week 1**  
+An **Armstrong number** is a number where the **sum of the digits raised to the power of number of digits** is equal to the number itself.  
+**Example:** `153 → 1^3 + 5^3 + 3^3 = 153`
+
+---
+
+### Program 20 - Kaprekar Number
+**Day 4 - Week 1**  
+A number is a **Kaprekar Number** if:  
+- `k^2` is split into two parts that sum to `k`.  
+**Examples:**  
+- `9 → 81 → 8 + 1 = 9`  
+- `297 → 88209 → 88 + 209 = 297`
+
+---
+
+### Program 21 - Strong Number
+**Day 4 - Week 1**  
+A number is a **Strong Number** if the **sum of the factorials of its digits** equals the number.  
+**Examples:**  
+- `145 → 1! + 4! + 5! = 145`  
+- `40585 → 4! + 0! + 5! + 8! + 5! = 40585`
+
+---
+
+### Program 22 - Print Right-Angled Triangle Pattern  
+**Week 1 - Day 4**  
+Take input a number from the user and print the **Right-Angled Triangle Pattern**.
+
+---
+
+### Program 23 - Print Inverted Right-Angled Triangle Pattern  
+**Week 1 - Day 4**  
+Take input a number from the user and print the **Inverted Right-Angled Triangle Pattern**.
+
+---
+
+### Program 24 - Staircase Pattern  
+**Week 1 - Day 5**  
+Print the **Left-Aligned Staircase Pattern** based on the input number of rows.
+
+---
+
+### Program 25 - Reverse Staircase Pattern  
+**Week 1 - Day 5**  
+Print the **Right-Aligned Reverse Staircase Pattern** based on the input number of rows.
+
+---
+
+### Program 26 - Print Square Pattern with Border  
+**Week 1 - Day 5**  
+Print a **Square Pattern with Star Border and Empty Center**.
+
+---
+
