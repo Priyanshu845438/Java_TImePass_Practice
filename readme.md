@@ -212,3 +212,85 @@ Print a **Square Pattern with Star Border and Empty Center**.
 
 ---
 
+// Program 27
+// Week 1 - Day 5
+// Print Traingle Pattern center empty
+
+
+---
+
+// Program 28
+// Week 1 - Day 5
+// Print first four alphabate of name in pattern by using *
+
+
+---
+
+// Program 29 
+// Week 1 - Day 5
+// Arrays
+// Sum of all the elements in the array
+
+
+---
+
+// Program 30
+// Week 1 - Day 5
+// Subtract of all the elements in the array
+// imput: 1-2-3-4-5
+// Output: -13
+
+
+---
+
+// Program 31
+// Week 1 - Day 5
+// Note: Two arrays are said to be the same if the sum of both arrays os the same and the size of the array is the same
+// Input: Input consist of 2 integers and 2 array. The integer should corrospend to the size of the array
+
+// Output: 
+//4
+//4
+//1
+//2
+//3
+//4
+//1
+//2
+//3
+//4
+
+---
+
+// Program 32
+// Week 1 - Day 6
+// Input consists of 2n + 2 integers. The first integer correspond to n1. the size of arrat. The next n1 integre correspond to the elements in the first array. The next (n + 1) integer corresponds to n2. the size of the second array. The last n2 integers correspond to the elements in the second array.
+// Output : Compatible array or incompatible array
+
+
+---
+
+// Program 33
+// Week 1 - Day 6
+// Array insertion by not removing any existing elements.
+
+
+---
+
+// Program 34
+// Week 1 - Day 6
+// Write a program to remove all the duplicate elements from an array.
+
+---
+
+// Program 35
+// Week 1 - Day 6
+// Cubic Sum: Given function: 
+//Int isCubicSumExist(long long int A[], int N);
+// The function accept an array A of size N and returns 1 if there exists a pair of elements in the array such that their sum is a perfect cube. Otherwise, it returns 0.
+// Input: N:3, A:[35,9,1]
+// Output: 2
+// Explanation: 35 is a good integre, there exist an answer with X = 2, y = 3(23 + 33 = 8 + 27 = 35)
+
+---
+
