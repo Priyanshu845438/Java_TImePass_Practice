@@ -292,5 +292,5 @@ Print a **Square Pattern with Star Border and Empty Center**.
 // Output: 2
 // Explanation: 35 is a good integre, there exist an answer with X = 2, y = 3(23 + 33 = 8 + 27 = 35)
 
----
+----
 
