@@ -11,7 +11,7 @@ A classroom is arranged in a grid format with `row` rows and `col` columns.
 
 ### Program 2 - Print a Basic Java Program
 **Day 1 - Week 1**  
-Write a simple Java program (e.g., Hello World or basic input/output).
+Write a simple Java program (e.g, Hello World or basic input/output).
 
 ---
 
